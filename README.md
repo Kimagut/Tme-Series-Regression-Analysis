@@ -1,4 +1,4 @@
-# Tme-Series-Regression-Analysis
+# Time-Series-Regression-Analysis
 **Problem Statement**
 
 Corporation Favorita aims to optimize its inventory management by accurately forecasting the demand for various products across its stores in Ecuador. The goal is to ensure that each store has the right quantity of products in stock to meet customer demand while minimizing overstocking or stockouts
